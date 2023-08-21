@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/mohammad-kashif-8513a21bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohammad-kashif-8513a21bb" height="30" width="40" /></a>
 <a href="https://fb.com/mohammad kashif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammad kashif" height="30" width="40" /></a>
 <a href="https://instagram.com/_m_kairo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_m_kairo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mks9918287070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mks9918287070" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@mks9918287070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mks9918287070" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kashif2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kashif2002" height="30" width="40" /></a>
 </p>
 
