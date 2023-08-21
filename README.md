@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **R programing , Java DSA**
+- 🌱 I’m currently learning **R programing , Java, DSA**
 
 - 💬 Ask me about **Python, C++, HTML**
 
